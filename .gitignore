@@ -1,0 +1,5 @@
+*.csv
+**/*.csv
+**/Plots/**
+!**/Plots/.gitignore
+**/*-checkpoint.ipynb
